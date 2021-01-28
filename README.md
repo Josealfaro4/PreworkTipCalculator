@@ -34,7 +34,7 @@ GIF created with [RecordIt].
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think the hardest part of this whole prework was to locate where everything was on Xcode. Since it was my first time doing any ios programming I did not know where many things were at.
 
 ## License
 
